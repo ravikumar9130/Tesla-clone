@@ -1,0 +1,56 @@
+*{
+  padding: 0;
+  margin: 0;
+  font-family:"Verdana", Geneva, Tahoma, sans-serif;
+}
+.App {
+  text-align: center;
+}
+body{
+  width: 100vw;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+}
+.arrow{
+  margin-top: 15px;
+  width:2em;
+height: 2em;
+animation: jiggle 1.5s infinite;
+overflow-y: hidden;
+}
+.logo{
+ 
+  width: 100px;
+}
+
+
+@keyframes jiggle {
+  0%   {transform: translateY(0px);}
+
+  20%   {transform: translateY(-5px);}
+
+  40% {transform: translateY(4px);}
+ 
+  65%   {transform: translateY(-5px);}
+ 
+  80%  {transform: translateY(4px);}
+
+  100%  {transform: translatey(0px);}
+}
+
+
+a{
+display: flex;
+margin: 0px 10px;
+align-items: center;
+text-decoration: none;
+text-transform: uppercase;
+color: #3b3b3b;
+font-size: 13px;
+font-weight:550;
+}
+.menu{
+  height: 1em;
+  width: 1em;
+  padding-left:15px;
+}
