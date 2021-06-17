@@ -1,4 +1,11 @@
+# the demo of the project is hosted in netlify 
+<i> <b> [Watch live](https://react-teslaclone.netlify.app)  </b> </i>
+
+
 # Getting Started with Create React App
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
