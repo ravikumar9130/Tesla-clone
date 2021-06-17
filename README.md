@@ -1,7 +1,7 @@
 # The demo of the project is hosted in netlify 
-                        👇🏼
-                   Watch here 
-                     
+                       
+                   
+             👇🏼         
 <i> <b> [Watch live](https://react-teslaclone.netlify.app)  </b> </i>
 
 
